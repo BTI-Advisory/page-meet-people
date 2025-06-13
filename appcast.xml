@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Meet People Updates</title>
+
+    <!-- Android -->
+    <item>
+      <title>Version 1.0.8</title>
+      <description>Mise à jour obligatoire Android</description>
+      <pubDate>Thu, 13 Jun 2025 12:00:00 +0200</pubDate>
+      <enclosure
+        url="https://play.google.com/store/apps/details?id=com.meetpe&pli=1"
+        sparkle:version="1.0.8"
+        sparkle:os="android"
+      />
+    </item>
+
+    <!-- iOS -->
+    <item>
+      <title>Version 1.0.8</title>
+      <description>Mise à jour obligatoire iOS</description>
+      <pubDate>Thu, 13 Jun 2025 12:00:00 +0200</pubDate>
+      <enclosure
+        url="https://apps.apple.com/fr/app/meet-people/id6478537337"
+        sparkle:version="1.0.8"
+        sparkle:os="ios"
+      />
+      <sparkle:minimumSystemVersion>1.0.4</sparkle:minimumSystemVersion>
+    </item>
+
+  </channel>
+</rss>
